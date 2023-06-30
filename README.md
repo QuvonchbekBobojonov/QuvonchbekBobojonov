@@ -28,6 +28,8 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://www.logo.wine/a/logo/Vim_(text_editor)/Vim_(text_editor)-Logo.wine.svg" alt="vim" width="40" height="40"/> </a>
+<a href="https://doc.qt.io/" target="_blank" rel="noreferrer"> <img src="https://d33sqmjvzgs8hq.cloudfront.net/wp-content/themes/oneqt/assets/images/favicon-32x32.png" alt="vim" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuvonchbekBobojonov&show_icons=true&locale=en&layout=compact" alt="QuvonchbekBobojonov" /></p>
