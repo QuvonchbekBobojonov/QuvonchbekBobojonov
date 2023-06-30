@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **Django, Django rest framework, Python, javascript, PYQT, Typescript, Aiogram, CSS Sqlite3 PostgreSql and more**
+- 💬 Ask me about **Django, Django rest framework, Python, javascript, <br/> PYQT, Typescript, Aiogram, CSS Sqlite3 PostgreSql and more...**
 
 - 📫 How to reach me **moorfoinfo@gmail.com**
 
