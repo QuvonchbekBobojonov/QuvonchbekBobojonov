@@ -34,13 +34,16 @@
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/8e/31/70/8e3170421b512c1eceabc90cc1c8d43d.png" alt="wordpress" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuvonchbekBobojonov&show_icons=true&locale=en&layout=compact" alt="QuvonchbekBobojonov" /></p>
+<br/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=firdavsDev&theme=github_dark" alt="info">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&theme=github_dark&show_icons=true&locale=en" alt="QuvonchbekBobojonov" /></p>
+-------------
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuvonchbekBobojonov&" alt="alimovfoziljon" /></p>
+<br/>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuvonchbekBobojonov&show_icons=true&locale=en&layout=compact" alt="QuvonchbekBobojonov" /></p>-->
+<img width="480" align="left" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&theme=github_dark&show_icons=true&locale=en" alt="QuvonchbekBobojonov" />
+<img width="480" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=QuvonchbekBobojonov&theme=tokyonight_duo&hide_border=true" alt="QuvonchbekBobojonov" />
 
-___________________
-
+<br/>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
