@@ -39,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&show_icons=true&locale=en" alt="QuvonchbekBobojonov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuvonchbekBobojonov&" alt="alimovfoziljon" /></p>
+
+___________________
+
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
