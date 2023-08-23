@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QuvonchbekBobojonov&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="QuvonchbekBobojonov" /> </p>
 
-- 🔭 I’m currently working on **I am not working at the moment**
+- 🔭 Im working on very cool projects
 
 - 🌱 I’m currently learning **react**
 
