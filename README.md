@@ -41,8 +41,8 @@
 
 <br/>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=QuvonchbekBobojonov&show_icons=true&locale=en&layout=compact" alt="QuvonchbekBobojonov" /></p>-->
-<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&theme=github_dark&show_icons=true&locale=en" alt="QuvonchbekBobojonov" />
-<img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=QuvonchbekBobojonov&theme=tokyonight_duo&hide_border=true" alt="QuvonchbekBobojonov" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&theme=github_dark&show_icons=true&locale=en" alt="QuvonchbekBobojonov" />
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=QuvonchbekBobojonov&theme=tokyonight_duo&hide_border=true" alt="QuvonchbekBobojonov" />
 
 <br/>
 
