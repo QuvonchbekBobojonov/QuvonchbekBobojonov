@@ -1,7 +1,7 @@
 ![python](https://github.com/QuvonchbekBobojonov/QuvonchbekBobojonov/assets/111079758/4e9d54f0-4b02-4e71-aab9-2c51b352405a)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Quvonchbek Bobojonov</h1>
-<h3 align="center">A passionate backend and full stack python developer from Uzbekistan</h3>
+<h3 align="center">A passionate backend and full stack python developer from Uzbekistan</h3> <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=QuvonchbekBobojonov&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="QuvonchbekBobojonov" /> </p>
