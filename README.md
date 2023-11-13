@@ -8,7 +8,7 @@
 
 - 🔭 **Im working on very cool projects**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **node**
 
 - 💬 Ask me about **Django, Django rest framework, Python, javascript, <br/> PYQT, Typescript, Aiogram, CSS Sqlite3 PostgreSql and more...**
 
