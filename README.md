@@ -45,14 +45,15 @@
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
 
 <br/>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuvonchbekBobojonov&theme=github_dark" alt="info">
+
+![info](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuvonchbekBobojonov&theme=github_dark)
 
 -------------
 
 <br/>
 
-<img width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&theme=github_dark&show_icons=true&locale=en" alt="QuvonchbekBobojonov" />
-<img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=QuvonchbekBobojonov&theme=tokyonight_duo" alt="QuvonchbekBobojonov" />
+![QuvonchbekBobojonov](https://github-readme-stats.vercel.app/api?username=QuvonchbekBobojonov&theme=github_dark&show_icons=true&locale=en) 
+![QuvonchbekBobojonov](https://github-readme-streak-stats.herokuapp.com?user=QuvonchbekBobojonov&theme=tokyonight_duo)
 
 <br/>
 
