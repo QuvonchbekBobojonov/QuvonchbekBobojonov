@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **node**
 
-- 💬 Ask me about **Django, Django rest framework, Python, javascript, <br/> PYQT, Typescript, Aiogram, CSS Sqlite3 PostgreSql and more...**
+- 💬 Ask me about **Backend**
 
 - 📫 How to reach me **moorfoinfo@gmail.com**
 
