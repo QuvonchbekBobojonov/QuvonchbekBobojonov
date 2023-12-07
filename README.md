@@ -43,6 +43,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 
 <br/>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuvonchbekBobojonov&theme=github_dark" alt="info">
