@@ -29,6 +29,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![PostgreSql](https://img.shields.io/badge/-PostgreSql-05122A?style=flat&logo=postgresql)&nbsp;
+![Sqlite](https://img.shields.io/badge/-Sqlite-05122A?style=flat&logo=sqlite)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Reactjs](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
