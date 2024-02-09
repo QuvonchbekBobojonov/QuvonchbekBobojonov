@@ -57,5 +57,3 @@
 <img width="400" align="right" src="https://github-readme-streak-stats.herokuapp.com?user=QuvonchbekBobojonov&theme=tokyonight_duo" alt="QuvonchbekBobojonov" />
 
 <br/>
-
-![Snake animation](https://github.com/QuvonchbekBobojonov/QuvonchbekBobojonov/blob/output/github-contribution-grid-snake.svg)
