@@ -4,8 +4,6 @@
 <h3 align="center">A passionate backend and full stack python developer from Uzbekistan</h3> <br/>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=QuvonchbekBobojonov&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="QuvonchbekBobojonov" /> </p>
-
 - 🔭 **Im working on very cool projects**
 
 - 🌱 I’m currently learning **node**
