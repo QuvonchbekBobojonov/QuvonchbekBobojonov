@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Backend**
 
-- 📫 How to reach me **moorfoinfo@gmail.com**
+- 📫 How to reach me **hi@moorfo.uz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
