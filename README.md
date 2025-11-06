@@ -41,7 +41,7 @@ I’m a passionate developer who loves building scalable, functional, and secure
 ---
 
 ## 📫 Get in Touch  
-- 📧 **Email:** [hi@moorfo.uz]  
+- 📧 **Email:** hi@moorfo.uz  
 - 💬 **Telegram:** [@QuvonchbekDev](https://t.me/QuvonchbekDev)  
 
 ---
